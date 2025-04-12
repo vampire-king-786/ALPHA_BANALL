@@ -1,9 +1,9 @@
 {
-    "name": "ᴀʟᴘʜᴀ ʙᴀɴ ᴀʟʟ",
+    "name": "ᴠᴀᴍᴘɪʀᴇ ʙᴀɴ ᴀʟʟ",
     "description": "sɪᴍᴘʟᴇ ʙᴏᴛ ᴛᴏ ʙᴀɴ ᴀʟʟ ᴛʜᴇ ᴍᴇᴍʙᴇʀs ғʀᴏᴍ ᴛʜᴇ ᴡʜᴏʟᴇ ᴄʜᴀᴛs",
-    "logo": "https://graph.org/file/bbae2c50b58056ecc4df7.jpg",
-    "keywords": ["ᴛᴇᴀᴍ-ᴘᴜʀᴠɪ", "ʙᴀɴ-ᴀʟʟ"],
-    "repository": "https://github.com/TEAMPURVI/ALPHA_BANALL",
+    "logo": "https://files.catbox.moe/em1qox.jpg",
+    "keywords": ["ᴛᴇᴀᴍ-ᴠᴀᴍᴘɪʀᴇ", "ʙᴀɴ-ᴀʟʟ"],
+    "repository": "https://github.com/vampire-king-786/VAMPIRE_BANALL",
     "stack": "container",
     "env": {
         "BOT_TOKEN": {
@@ -11,7 +11,7 @@
             "required": true
         },
         "OWNER": {
-            "description": "ᴛʏᴘᴇ ʏᴏᴜʀ ᴜsᴇʀɴᴀᴍᴇ ᴡɪᴛʜᴏᴜᴛ @ ll_ALPHA_BABY_lll",
+            "description": "ᴛʏᴘᴇ ʏᴏᴜʀ ᴜsᴇʀɴᴀᴍᴇ ᴡɪᴛʜᴏᴜᴛ @ lllVAMPIRE_KINGlll",
             "required": true,
             "value": ""
         },
@@ -39,4 +39,4 @@
               "quantity": 1
           }
       }
- }
+}
