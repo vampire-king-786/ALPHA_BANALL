@@ -33,8 +33,8 @@ app = Client(
 async def start_command(client, message: Message):
     user = message.from_user
     await message.reply_photo(
-        photo=f"https://files.catbox.moe/qej5mx.jpg",
-        caption=f"**✦ » ʜᴇʏ {user.mention}**\n**✦ » ᴛʜɪs ɪs ᴀ sɪᴍᴘʟᴇ ʙᴀɴ ᴀʟʟ ʙᴏᴛ ᴡʜɪᴄʜ ɪs ʙᴀsᴇᴅ ᴏɴ ᴘʏʀᴏɢʀᴀᴍ ʟɪʙʀᴀʀʏ.**\n\n**✦ » ʙᴀɴ ᴏʀ ᴅᴇsᴛʀᴏʏ ᴀʟʟ ᴛʜᴇ ᴍᴇᴍʙᴇʀs ғʀᴏᴍ ᴀ ɢʀᴏᴜᴘ ᴡɪᴛʜ ɪɴ ᴀ ғᴇᴡ sᴇᴄᴏɴᴅs.**\n\n**✦ » ᴄʜᴇᴄᴋ ᴍʏ ᴀʙɪʟɪᴛʏ ɢɪᴠᴇ ᴍᴇ ғᴜʟʟ ᴘᴏᴡᴇʀs ᴀɴᴅ ᴛʏᴘᴇ `/banall` ᴛᴏ ꜱᴇᴇ ᴍᴀɢɪᴄ ɪɴ ɢʀᴏᴜᴘ.**\n\n**✦ » 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ »  <a href=t.me/ll_ALPHA_BABY_lll>⎯᪵፝֟፝֟⎯꯭𓆩꯭ 𝐀 ꯭ʟ ꯭ᴘ ꯭ʜ꯭ ᴧ꯭⎯꯭꯭꯭̽🥂꯭༎꯭ 𓆪꯭ </a>**",
+        photo=f"https://files.catbox.moe/em1qox.jpg",
+        caption=f"✦ » ʜᴇʏ {user.mention}\n✦ » ᴛʜɪs ɪs ᴀ sɪᴍᴘʟᴇ ʙᴀɴ ᴀʟʟ ʙᴏᴛ ᴡʜɪᴄʜ ɪs ʙᴀsᴇᴅ ᴏɴ ᴘʏʀᴏɢʀᴀᴍ ʟɪʙʀᴀʀʏ.\n\n✦ » ʙᴀɴ ᴏʀ ᴅᴇsᴛʀᴏʏ ᴀʟʟ ᴛʜᴇ ᴍᴇᴍʙᴇʀs ғʀᴏᴍ ᴀ ɢʀᴏᴜᴘ ᴡɪᴛʜ ɪɴ ᴀ ғᴇᴡ sᴇᴄᴏɴᴅs.\n\n**✦ » ᴄʜᴇᴄᴋ ᴍʏ ᴀʙɪʟɪᴛʏ ɢɪᴠᴇ ᴍᴇ ғᴜʟʟ ᴘᴏᴡᴇʀs ᴀɴᴅ ᴛʏᴘᴇ /banall ᴛᴏ ꜱᴇᴇ ᴍᴀɢɪᴄ ɪɴ ɢʀᴏᴜᴘ.**✦ » 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ »  <a href=t.me/lllVAMPIRE_KINGlll>⎯᪵፝֟፝❍⏤‌‌𝗩𝗔𝗠𝗣𝗜𝗥𝗘 𝗞𝗜𝗡𝗚乛|⁪⁬⁮⁮⁮⁮𓆩〭〬🔥𓆪ꪾ™ </a>a>**",
         reply_markup=InlineKeyboardMarkup(
             [
                 [
@@ -43,8 +43,8 @@ async def start_command(client, message: Message):
                     )
                 ],
                 [
-                    InlineKeyboardButton("🔸 ❍ᴡɴᴇʀ🔸", url="http://t.me/ll_ALPHA_BABY_lll"),
-                    InlineKeyboardButton("▫️ 𝗨ᴘᴅᴀᴛᴇs ▫️", url="http://t.me/PURVI_SUPPORT")
+                    InlineKeyboardButton("🔸 ❍ᴡɴᴇʀ🔸", url="http://t.me/lllVAMPIRE_KINGlll"),
+                    InlineKeyboardButton("▫️ 𝗨ᴘᴅᴀᴛᴇs ▫️", url="https://t.me/VAMPIRE_UPDATESS")
                 ]                
             ]
         )
